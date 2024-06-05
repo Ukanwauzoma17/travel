@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+}
+ body{
+     padding-top: 2rem;
+     /* padding-left: 15rem; */
+     font-family: 'Roboto',sans-serif;
+     padding-bottom: 10rem;
+ }
+ h2{
+     margin-bottom: 5rem;
+     margin-right: 5rem;
+    color: rgb(43, 43, 77); 
+    margin-left: 8rem;
+    font-size: 30px;
+ }
+section{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 30rem;
+    width: 40%;
+    padding-bottom: 15rem;
+    padding-top: 2rem;
+    padding-left: 7rem;
+    border-bottom-right-radius: 45px;
+    border-top-left-radius: 45px;
+    height: 90vh;
+   
+}
+.user{
+    margin-bottom: 2rem;
+}
+h1{
+    margin-left: 32rem;
+    color: rgb(43, 43, 77);
+    font-size: 40px;
+    
+}
+.user{
+   margin-bottom: 4rem;
+   
+}
+.bb{
+    border-bottom: 1px solid rgb(43, 43, 77);
+ margin-top: 3rem;
+ margin-bottom: 4rem;
+    width: 20rem;
+}
+
+.input_username{
+   padding: 0.7rem 1rem 0.7rem 3rem;
+   border-radius: 15px;
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   margin-left: 1rem;
+   border: none;
+}
+
+.input_password{
+    padding: 0.7rem 1rem 0.7rem 3rem;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;   
+    margin-left: 1rem; 
+    margin-bottom: 5rem;
+    border: none;
+}
+
+.world{
+    width: 4%;
+}
+button{
+        padding: 0.8rem 4rem;
+    background-color: rgb(43, 43, 77);
+    color: white;
+    font-size: 13px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: none;
+    border-radius: 15px;
+    margin-left: 8rem;
+}
+button:hover{
+    padding: 0.8rem 4rem;
+  background-color: white;
+  color: rgb(43, 43, 77);
+  font-size: 13px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.link p{
+        margin-left: 4rem;
+}
+.facebook{
+    width: 2rem;
+}
+.link_facebook{
+    display: flex;
+
+}
